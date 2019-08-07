@@ -1,6 +1,7 @@
-# Hello (World) Learning
+# Hello Ruby
 
-A place for me to play around with some basic example apps, most commonly "Hello World"'s and "TODO" examples.
-
-**Each language/framework is broken down by branch.**
+```bash
+ruby helloworld-ruby.rb
+```
+Prints: `Hello World`
 
