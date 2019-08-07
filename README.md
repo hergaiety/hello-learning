@@ -1,7 +1,13 @@
-# Hello Ruby
+# Hello Ruby on Rails
+
+Following [this tutorial from rubyonrails.org](https://guides.rubyonrails.org/getting_started.html#hello-rails-bang).
+
+![Preview](./blog-preview.png)
 
 ```bash
-ruby helloworld-ruby.rb
+cd blog
+bin/rails server
 ```
-Prints: `Hello World`
+
+Launches a web server.
 
